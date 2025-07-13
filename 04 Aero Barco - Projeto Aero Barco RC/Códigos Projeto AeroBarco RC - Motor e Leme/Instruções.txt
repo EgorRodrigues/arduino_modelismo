@@ -1,0 +1,12 @@
+Para carregar os códigos para placa Arduino, você
+precisa primeiro instalar o IDE do Arduino e depois
+adicionar a Biblioteca RF24 que envio junto aos codigos.
+
+Te desejo uma ótima construção! 
+
+Aldeir Moreira
+www.ArduinoParaModelismo.com
+
+
+Siga-nos também no Instagram: 
+https://www.instagram.com/arduinoparamodelismo
