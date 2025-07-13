@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino UNO",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/main",
+                "${workspaceFolder}/arduino/libraries/**",
+                "${workspaceFolder}/.arduino/data/packages/arduino/hardware/avr/1.8.6/cores/arduino",
+                "${workspaceFolder}/.arduino/data/packages/arduino/hardware/avr/1.8.6/variants/uno",
+                "${workspaceFolder}/.arduino/data/packages/arduino/hardware/avr/1.8.6/libraries/SPI/src",
+                "${workspaceFolder}/arduino/libraries/Servo/src"
+            ],
+            "defines": [
+                "ARDUINO=10805",
+                "ARDUINO_AVR_UNO",
+                "ARDUINO_ARCH_AVR"
+            ],
+            "compilerPath": "/usr/bin/clang++",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "macos-gcc-arm64"
+        }
+    ],
+    "version": 4
+}
